@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexamples",
+  "version": "1.0.0",
+  "description": "Examples for differrent topics in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasuya1117/NodeJsExamples.git"
+  },
+  "author": "Anasuya Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasuya1117/NodeJsExamples/issues"
+  },
+  "homepage": "https://github.com/anasuya1117/NodeJsExamples#readme"
+}
